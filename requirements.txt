@@ -2,3 +2,6 @@ flask
 gunicorn
 requests
 streamlit
+folium
+pandas
+numpy
