@@ -1,7 +1,11 @@
 flask
 gunicorn
-requests
 streamlit
 folium
+osmnx
+networkx
+geopandas
+shapely
 pandas
 numpy
+requests
